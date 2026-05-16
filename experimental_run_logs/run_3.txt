@@ -1,0 +1,26 @@
+(venv) (base) aman@MacBookAir earnings-call-analysis % python transcribe_audio_3.py audio_files/ptrn_q_4_2026_03_05_earnings_summary.mp3
+Transcribing: ptrn_q_4_2026_03_05_earnings_summary.mp3
+Total chunks: 3
+
+Processing chunk 1/3
+⏱️ Chunk 1: 37.05s
+
+Processing chunk 2/3
+⏱️ Chunk 2: 52.39s
+
+Processing chunk 3/3
+⏱️ Chunk 3: 21.14s
+
+====== SUMMARY ======
+Total API time: 110.57s
+Total wall time: 120.57s
+
+Saved JSON → audio_files/ptrn_q_4_2026_03_05_earnings_summary_transcript_3.json
+Saved TXT  → audio_files/ptrn_q_4_2026_03_05_earnings_summary_transcript_3.txt
+
+Preview:
+
+Thank you for standing by and welcome to Pattern's fourth quarter and four-year 2025 Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speaker presentation, there will be a question and answer session. To ask a question during the session, you will need to press star 11 on your telephone. To remove yourself from the queue, you may press star 11 again. I would now like to hand the call over to Amos Chung, VP of Finance. Please go ahead. Thank you, Opera...
+
+Model: whisper-1
+Cost: $0.3
